@@ -39,7 +39,6 @@ Here are some projects I have worked on:
 Feel free to reach out for collaborations or opportunities!
 
 - **Email**: [your_email@example.com](mailto:ravishankarprashan76@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ravi-shankar-pradhan)
 
 ---
 
