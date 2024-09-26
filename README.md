@@ -36,8 +36,8 @@ Here are some of the skills I have acquired:
 
 Feel free to reach out for collaborations or opportunities!
 
-- **Email**: [your_email@example.com](mailto:ravishankarprashan76@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [My Email](mailto:ravishankarpradhan76@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ---
 
