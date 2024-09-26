@@ -1,6 +1,6 @@
-# 👋 Hello! I'm a Flutter Developer
+# 👋 Hello! I'm a Flutter Developer & UI/UX Designer
 
-Welcome to my GitHub profile! I am a passionate and enthusiastic fresher Flutter developer with a keen interest in building beautiful and functional mobile applications.
+Welcome to my GitHub profile! I am a passionate and enthusiastic fresher Flutter developer and UI/UX designer, keen on building beautiful and functional mobile applications.
 
 ---
 
