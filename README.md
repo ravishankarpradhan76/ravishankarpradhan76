@@ -1,8 +1,9 @@
-# 👋 Hello! I'm a Flutter Developer & UI/UX Designer
-
-Welcome to my GitHub profile! I am a passionate and enthusiastic fresher Flutter developer and UI/UX designer, keen on building beautiful and functional mobile applications.
-
----
+Ravi-mobile-app-dev/README.md
+👋 Hi, I’m @ravi-mobile-app-dev
+👀 I’m interested in mobile application development and AI
+🌱 I’m currently learning hybrid mobile application
+💞️ I’m looking to collaborate on AI
+📫 How to reach me ravishankarpradhan76@gmail.com
 
 ## 🚀 Skills
 
